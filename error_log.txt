@@ -1,0 +1,4 @@
+[17-Apr-2025 18:05:47 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function mask_upi() in C:\xampp\htdocs\label\generate.php:252
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\label\generate.php on line 252
